@@ -1,13 +1,13 @@
 ## 安装Ubuntu 后做的事
-### 1.添加root用户
+### 添加root用户
 ```
 sudo passwd root
 ```
-### 2.安装vim 
+### 安装vim 
 ```
     sudo apt install vim
 ```
-### 3.切换源
+### 切换源
 #### 备份源
 ```
     sudo cp /etc/apt/sources.list /etc/apt/sources.list.bak
